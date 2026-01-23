@@ -102,7 +102,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-          <p>&copy; 2026 Школа №225. Усі права захищені.</p>
+          <p>&copy; 2026 Школа №226. Усі права захищені.</p>
           <p className="mt-2">
             <Link
               to="/transparency"
