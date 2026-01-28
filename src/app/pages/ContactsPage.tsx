@@ -58,8 +58,8 @@ export function ContactsPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold">Електронна пошта</h4>
-                    <p className="text-gray-700">school225@edu.ua</p>
-                    <p className="text-gray-700">director@school225.edu.ua</p>
+                    <p className="text-gray-700">school226@edu.ua</p>
+                    <p className="text-gray-700">director@school226.edu.ua</p>
                   </div>
                 </div>
 
