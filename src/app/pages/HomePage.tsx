@@ -84,7 +84,7 @@ export function HomePage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                Загальноосвітня школа №225
+                Загальноосвітня школа №226
               </h1>
               <p className="text-xl mb-6 text-blue-100">
                 Сучасна освіта. Якісне навчання. Турбота про кожну дитину.
