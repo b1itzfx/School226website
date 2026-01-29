@@ -35,7 +35,7 @@ export function Header() {
               <GraduationCap className="h-8 w-8" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Школа №225</h1>
+              <h1 className="text-xl font-bold text-gray-900">Школа №226</h1>
               <p className="text-xs text-gray-500">м. Київ</p>
             </div>
           </Link>
